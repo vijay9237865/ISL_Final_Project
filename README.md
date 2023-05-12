@@ -1,4 +1,4 @@
-# ⚠️ Caution: it gonna take time to run, Please be patient
+# ⚠️ Caution: it gonna take time to run since it has to render all 60000 images
 
 # OBJECT DETECTION USING DEEP LEARNING MODEL
 
