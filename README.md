@@ -12,6 +12,7 @@
 
 
 - ![image](https://github.com/vijay9237865/ISL_Final_Project/assets/81625376/7e06b7e6-e682-4d41-ad04-f1d61854da66)
+- <img align="right" alt="gif" width="400" src="https://github.com/vijay9237865/ISL_Final_Project/assets/81625376/7e06b7e6-e682-4d41-ad04-f1d61854da66">
 - Fig: This above figure represents the architecture of the object detection model
 
 
