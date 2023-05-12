@@ -2,6 +2,9 @@
 
 # OBJECT DETECTION USING DEEP LEARNING MODEL
 
+# Dataset: https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+# Video: 
+
 
 ## Abstract: 
 
