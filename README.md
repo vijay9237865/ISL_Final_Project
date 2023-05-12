@@ -16,7 +16,7 @@
 - Fig: This above figure represents the architecture of the object detection model
 
 
-- ![image](https://github.com/vijay9237865/ISL_Final_Project/assets/81625376/e33d9f37-4029-4a33-9663-208c1f14466d)
+- <img width="577" alt="image" src="https://github.com/vijay9237865/ISL_Final_Project/assets/81625376/7af89ff1-1581-4abd-8360-efd6cf981bc0">
 - Fig: the graph represents the comparison of the training accuracy and validation accuracy, Green line represent the training accuracy and the red line represents the testing accuracy.
 
 
